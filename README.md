@@ -1,2 +1,2 @@
 # pjestudos
- Projetos desenvolvidos para estudo
+ Projetos desenvolvidos para estudar
